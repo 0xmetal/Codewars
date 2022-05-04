@@ -1,0 +1,1 @@
+doubleInteger = num => num + num
