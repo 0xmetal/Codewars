@@ -9,5 +9,3 @@ function aliasGen(a, b) {
         return 'Your name must start with a letter from A - Z.'
     }
 }
-
-console.log('yes')
